@@ -1,0 +1,6 @@
+{
+  "name": "WanderMate",
+  "description": "Social budget travel & street food explorer for Old Delhi's Chandni Chowk and iconic Indian street food trails.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
